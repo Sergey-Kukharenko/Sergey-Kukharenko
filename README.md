@@ -1,4 +1,4 @@
-![Arc<T>](./github-readme-banner.jpg)
+![Arc<T>](./github-readme-banner-rounded.png)
 
 ### The art of structure.
 
