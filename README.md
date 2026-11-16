@@ -1,7 +1,8 @@
-![Arc<T>](./github-readme-banner.jpg)
+![Arc<T>](./arcT-banner-github-readme.jpg)
 
-### Hi, I'm Sergey — Architect
+## Architect
+*The art of structure.*
 
 Frontend developer who loves architecture — in code and in life.
 
-`TypeScript` `React` `Vue` `Nuxt` `NestJS`
+`TypeScript` `React` `Vue` `Nuxt` `Next.js`
