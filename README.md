@@ -1,4 +1,4 @@
-![Arc<T>](./arcT-banner-github-readme.jpg)
+![Arc<T>](./github-readme-banner.jpg)
 
 ## Architect
 *The art of structure.*
